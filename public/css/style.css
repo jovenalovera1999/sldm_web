@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#nav-custom {
+    background-color: dodgerblue;
+}
+
+#sldm-logo {
+    width: 20%;
+    height: 20%;
+}
+
+#custom-footer {
+    background-color: dodgerblue;
+}
+
+#custom-copyright {
+    margin-top: 80px;
+}
